@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ridley.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ridley Back Note1" x="0" y="0" width="1200" height="1050" frameX="300" frameY="-50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Back Note2" x="1200" y="0" width="1200" height="1050" frameX="300" frameY="-50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Down Note1" x="2400" y="0" width="1150" height="1050" frameX="-6" frameY="50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Down Note2" x="3550" y="0" width="1150" height="1050" frameX="-6" frameY="50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Forward Note1" x="4700" y="0" width="1150" height="1050" frameX="-6" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Forward Note2" x="5850" y="0" width="1150" height="1050" frameX="-6" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle1" x="7000" y="0" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle2" x="0" y="1050" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle3" x="1150" y="1050" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle4" x="2300" y="1050" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle5" x="3450" y="1050" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Idle6" x="4600" y="1050" width="1150" height="1050" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Up Note1" x="5750" y="1050" width="1150" height="1050" frameX="350" frameY="200" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Ridley Up Note2" x="6900" y="1050" width="1150" height="1050" frameX="350" frameY="200" frameWidth="350" frameHeight="700"/>
+</TextureAtlas>

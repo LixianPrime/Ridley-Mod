@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Meta_Ridley.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Meta Ridley Idle1" x="0" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Idle2" x="1100" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Idle3" x="2200" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Idle4" x="3300" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Idle5" x="4400" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Idle6" x="5500" y="0" width="1100" height="1100" frameX="200" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Back1" x="6600" y="0" width="1300" height="1100" frameX="300" frameY="-50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Back2" x="0" y="1100" width="1300" height="1100" frameX="300" frameY="-50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Forward1" x="1300" y="1100" width="1100" height="1100" frameX="-6" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Forward2" x="2400" y="1100" width="1100" height="1100" frameX="-6" frameY="0" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Down1" x="3500" y="1100" width="1100" height="1100" frameX="-6" frameY="50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Down2" x="4600" y="1100" width="1100" height="1100" frameX="-6" frameY="50" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Up1" x="5700" y="1100" width="1100" height="1100" frameX="350" frameY="100" frameWidth="350" frameHeight="700"/>
+	<SubTexture name="Meta Ridley Up2" x="6800" y="1100" width="1100" height="1100" frameX="350" frameY="100" frameWidth="350" frameHeight="700"/>
+</TextureAtlas>

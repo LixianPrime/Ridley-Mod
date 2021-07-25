@@ -18,3 +18,5 @@ Senpai:senpai:6
 Roses:senpai:6
 Thorns:spirit:6
 Harbinger:ridley:1
+Nightmares:ridley:1
+Abomination:meta-ridley:1

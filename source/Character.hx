@@ -511,6 +511,22 @@ class Character extends FlxSprite
 					addOffset("singLEFT");
 					addOffset("singDOWN");
 					playAnim('idle');
+
+			case 'meta-ridley':
+					tex = Paths.getSparrowAtlas('characters/Meta_Ridley');
+					frames = tex;
+					animation.addByPrefix('idle', 'Meta Ridley Idle', 24, false);
+					animation.addByPrefix('singUP', 'Meta Ridley Up', 24, false);
+					animation.addByPrefix('singDOWN', 'Meta Ridley Down', 24, false);
+					animation.addByPrefix('singLEFT', 'Meta Ridley Back', 24, false);
+					animation.addByPrefix('singRIGHT', 'Meta Ridley Forward', 24, false);
+	
+					addOffset('idle');
+					addOffset("singUP");
+					addOffset("singRIGHT");
+					addOffset("singLEFT");
+					addOffset("singDOWN");
+					playAnim('idle');
 		}
 
 		dance();

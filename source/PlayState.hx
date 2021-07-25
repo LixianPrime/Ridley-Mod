@@ -757,6 +757,10 @@ class PlayState extends MusicBeatState
 				dad.x -= 250;
 				dad.y -= 50;
 				camPos.set(dad.getGraphicMidpoint().x + 300, dad.getGraphicMidpoint().y);
+			case 'meta-ridley':
+				dad.x -= 250;
+				dad.y -= 100;
+				camPos.set(dad.getGraphicMidpoint().x + 300, dad.getGraphicMidpoint().y);
 		}
 
 
